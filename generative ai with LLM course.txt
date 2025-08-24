@@ -1,0 +1,3 @@
+generative ai with LLM course
+prompt engineering
+Books : Building LLM from scratch,  LLM Handbook by maxim, llm engineering handbook
