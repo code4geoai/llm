@@ -1,0 +1,6 @@
+2.*
+dialogue-summary*
+config.json
+generation_config.*
+*.bin
+*.safetensors
